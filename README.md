@@ -1,1 +1,1 @@
-[![Image of https://github.com/mihinx1/my-profile-views-counter](https://github.com/mihinx1/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/mihinx1/my-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=mihinx1&color=green)
