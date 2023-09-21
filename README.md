@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?mihinx1&color=green)
+![Profile views](https://gpvc.arturio.dev/mihinx1)
