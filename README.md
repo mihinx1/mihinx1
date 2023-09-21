@@ -1,1 +1,1 @@
-![Profile views](https://gpvc.arturio.dev/mihinx1)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/mihinx1/my-profile-views-counter)
